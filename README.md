@@ -1,5 +1,8 @@
 # dzipcrack
-Zip password guesser
+Zip password cracker
+Guess zip password
+
+*Only bruteforce available*
 
 # Available Parameters
 - multiprocess
